@@ -1,0 +1,53 @@
+.mammals{
+    color: red;
+    background-color: lavenderblush;
+    font-weight: bold;
+}
+.birds{
+    color: blue;
+    background-color: lightgray;
+    font-style: italic;
+}
+.fish{
+    color: orange;
+    background-color: lightyellow;
+    text-decoration: underline;
+}
+#mouse{
+    color: gray;
+}
+#canary{
+    color: orangeRed;
+}
+#penguin{
+    color: black;
+}
+#salmon{
+    color: salmon;
+}
+#cat{
+    color: sienna;
+}
+#goldfish{
+    color: gold;
+}
+#dog{
+    color: tan;
+}
+#sheep{
+    color: steelblue;
+}
+#parakeet{
+    color: lime;
+}
+#tuna{
+    color: purple;
+}
+ul{
+    border: 3px dotted plum;
+    /* the directions say dotted our refrence image is solid. */
+}
+li{
+    border-top-width: 3px;
+    border: solid seagreen;
+}
